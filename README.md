@@ -12,7 +12,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
     SQL Server
     Bootstrap (for UI styling)
 
-**  Getting Started**
+  Getting Started
 **Prerequisites**
 Before you begin, ensure you have the following installed:
     .NET SDK
